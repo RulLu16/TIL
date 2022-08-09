@@ -3,7 +3,6 @@
 도커 공식 홈페이지에 있는 대로 설치한다!
 
 Mac 이나 Windows 를 쓰면 도커가 VM을 세팅하고 VM 안에서 도커 데몬이 실행된다.
-(왜일까... Linux 가 아니면 안 돼서 그런가)
 
 컨테이너 실행
 $ docker run <IMAGE>:[TAG] [COMMAND]
